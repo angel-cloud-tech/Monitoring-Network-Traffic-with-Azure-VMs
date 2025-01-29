@@ -1,5 +1,5 @@
 # Monitoring-Network-Traffic-with-Azure-VMs
-.<p align="center">
+<p align="center">
 <img src="https://i.imgur.com/VvEfgCC.jpeg" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 
